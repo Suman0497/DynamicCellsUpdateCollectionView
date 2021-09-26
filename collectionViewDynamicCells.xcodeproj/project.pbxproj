@@ -13,6 +13,7 @@
 		184CF521270071070077F986 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184CF51F270071070077F986 /* Main.storyboard */; };
 		184CF523270071080077F986 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184CF522270071080077F986 /* Assets.xcassets */; };
 		184CF526270071080077F986 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184CF524270071080077F986 /* LaunchScreen.storyboard */; };
+		184CF52E270071EE0077F986 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184CF52D270071EE0077F986 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		184CF522270071080077F986 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		184CF525270071080077F986 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		184CF527270071080077F986 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		184CF52D270071EE0077F986 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				184CF519270071070077F986 /* AppDelegate.swift */,
 				184CF51B270071070077F986 /* SceneDelegate.swift */,
 				184CF51D270071070077F986 /* ViewController.swift */,
+				184CF52D270071EE0077F986 /* CollectionViewCell.swift */,
 				184CF51F270071070077F986 /* Main.storyboard */,
 				184CF522270071080077F986 /* Assets.xcassets */,
 				184CF524270071080077F986 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				184CF51E270071070077F986 /* ViewController.swift in Sources */,
 				184CF51A270071070077F986 /* AppDelegate.swift in Sources */,
+				184CF52E270071EE0077F986 /* CollectionViewCell.swift in Sources */,
 				184CF51C270071070077F986 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
